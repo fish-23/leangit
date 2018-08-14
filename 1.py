@@ -1,9 +1,2 @@
-test
-test2
-test3
-test4
-text5
-text6
-text7
-p
-test8
+learn1
+learn2
